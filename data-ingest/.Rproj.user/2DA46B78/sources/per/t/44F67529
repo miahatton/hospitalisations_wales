@@ -1,0 +1,32 @@
+{
+    "id": "44F67529",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1605980237438.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "expression": "lockdown_info",
+        "caption": "lockdown_info",
+        "totalObservations": 26,
+        "displayedObservations": 26,
+        "variables": 5,
+        "cacheKey": "A9795D5A",
+        "object": "lockdown_info",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=lockdown_info&cache_key=A9795D5A&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1605740629,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1605980237438,
+    "read_only": false,
+    "read_only_alternatives": []
+}

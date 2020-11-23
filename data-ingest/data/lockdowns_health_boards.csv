@@ -1,0 +1,27 @@
+health_board,date,hb_pop,num_lockdown,prop_lockdown
+Abertawe Bro Morgannwg University Health Board,01/07/2020,390308,0,0
+Abertawe Bro Morgannwg University Health Board,27/09/2020,390308,246993,0.632815623
+Abertawe Bro Morgannwg University Health Board,28/09/2020,390308,390308,1
+Abertawe Bro Morgannwg University Health Board,23/10/2020,390308,390308,2
+Aneurin Bevan University Health Board,01/07/2020,594164,0,0
+Aneurin Bevan University Health Board,08/09/2020,594164,275036,0.462895766
+Aneurin Bevan University Health Board,22/09/2020,594164,499574,0.84080153
+Aneurin Bevan University Health Board,23/10/2020,594164,594164,2
+Betsi Cadwaladr University Health Board,01/07/2020,699559,0,0
+Betsi Cadwaladr University Health Board,01/10/2020,699559,504956,0.721820461
+Betsi Cadwaladr University Health Board,23/10/2020,699559,699559,2
+Cardiff and Vale University Health Board,01/07/2020,500490,0,0
+Cardiff and Vale University Health Board,27/09/2020,500490,366903,0.733087574
+Cardiff and Vale University Health Board,28/09/2020,500490,500490,1
+Cardiff and Vale University Health Board,23/10/2020,500490,500490,2
+Cwm Taf University Health Board,01/07/2020,448639,0,0
+Cwm Taf University Health Board,17/09/2020,448639,241264,0.537768674
+Cwm Taf University Health Board,22/09/2020,448639,448639,1
+Cwm Taf University Health Board,23/10/2020,448639,448639,2
+Hywel Dda University Health Board,01/07/2020,387284,0,0
+Hywel Dda University Health Board,26/09/2020,387284,49591,0.128048151
+Hywel Dda University Health Board,23/10/2020,387284,387284,2
+Powys Teaching Health Board,01/07/2020,132435,0,0
+Powys Teaching Health Board,23/10/2020,132435,132435,2
+Swansea Bay University Health Board,01/07/2020,390308,0,0
+Swansea Bay University Health Board,23/10/2020,390308,390308,2

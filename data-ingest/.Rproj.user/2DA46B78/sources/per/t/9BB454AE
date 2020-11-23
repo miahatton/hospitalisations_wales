@@ -1,0 +1,32 @@
+{
+    "id": "9BB454AE",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1605865557375.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "expression": "beds_lockdowns",
+        "caption": "beds_lockdowns",
+        "totalObservations": 2066,
+        "displayedObservations": 2066,
+        "variables": 4,
+        "cacheKey": "D38A3A13",
+        "object": "beds_lockdowns",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=beds_lockdowns&cache_key=D38A3A13&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2368052708168,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1605865557375,
+    "read_only": false,
+    "read_only_alternatives": []
+}
