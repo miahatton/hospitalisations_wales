@@ -1,2 +1,2 @@
 # hospitalisations_wales
-Cardiff Met project visualisation stats wales data about hospitalisations in Wales during 2020
+Cardiff Met project: visualisation of Stats Wales data about hospitalisations in Wales during 2020
